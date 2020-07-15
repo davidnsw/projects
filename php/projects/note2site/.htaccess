@@ -1,5 +1,0 @@
-<IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteRule ^archive/(.*)\.html$ archive/index.php?path=$1 [L]
-RewriteRule ^topic/(.*)\.html$ topic/index.php?path=$1 [L]
-</IfModule>
