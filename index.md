@@ -3,7 +3,7 @@ layout: default
 ---
 
 这里是David的活动项目主页。
-
+</dl>
 <div class="container-fluid">
   <div class="row-fluid">
     <div class="span12">
@@ -127,7 +127,7 @@ layout: default
     </div>
   </div>
 </div>
-
+</dl>
 <!--
 整段整段的不可见内容
 -->
