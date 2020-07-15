@@ -1,22 +1,3 @@
-# crimx.github.io
+The OpenShift `php` cartridge documentation can be found at:
 
-> My site
-
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-php/README.md
