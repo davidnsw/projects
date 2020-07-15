@@ -1,12 +1,5 @@
-name: David CHEN
-description: My personal blog of tech and stuff 
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-baseurl: "https://davidnsw.github.io/projects/" # the subpath of your site, e.g. /blog
-url: "https://davidnsw.github.io/projects/" # 你的域名
+title: David CHEN
+description: This is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
-
-exclude:
-  - vendor
