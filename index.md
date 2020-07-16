@@ -1,7 +1,7 @@
 ---
 layout: default
 title: David CHEN
-description: Welcome
+description: This is a clean, responsive theme for GitHub Pages.
 ---
 
 # Welcome 
