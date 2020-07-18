@@ -47,3 +47,9 @@
     </main>
   </body>
 </html>
+
+{% for item in data.nav.docs %}
+    <li>
+        <a href="{{ item.url | absolute_url }}">{{ item.title }}</a>
+    </li>
+{% endfor %}
